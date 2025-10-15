@@ -1,8 +1,0 @@
--- ~/.config/nvim/lua/custom/chadrc.lua
-local M = {}
-M.base46 = {
-    theme = "ashen", -- name must match lua/themes/ashen.lua
-    transparency = true,
-    -- optional: changed_themes = {}, hl_override = {}, etc.
-}
-return M

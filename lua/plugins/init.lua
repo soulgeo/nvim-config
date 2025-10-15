@@ -58,6 +58,12 @@ return {
         "ThePrimeagen/vim-be-good",
         lazy = false,
     },
+    { "nvzone/volt", lazy = true },
+
+    {
+        "nvzone/minty",
+        cmd = { "Shades", "Huefy" },
+    },
 
     -- These are some examples, uncomment them if you want to see them work!
 
